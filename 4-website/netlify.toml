@@ -1,0 +1,34 @@
+# Netlify settings. The site is plain static files, so there is no build step.
+[build]
+  publish = "."
+
+# The old Google Sites addresses keep working.
+[[redirects]]
+  from = "/home"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/donate-now"
+  to = "/donate.html"
+  status = 301
+
+[[redirects]]
+  from = "/student-chapters"
+  to = "/chapters.html"
+  status = 301
+
+[[redirects]]
+  from = "/resources"
+  to = "/resources.html"
+  status = 301
+
+[[redirects]]
+  from = "/about"
+  to = "/about.html"
+  status = 301
+
+[[redirects]]
+  from = "/thank-you-for-donating"
+  to = "/thank-you.html"
+  status = 301

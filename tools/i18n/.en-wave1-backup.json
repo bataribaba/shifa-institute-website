@@ -1,0 +1,502 @@
+{
+ "ui": {
+  "showingAll": "Showing all {n} resources",
+  "showingSome": "Showing {a} of {n} resources",
+  "lCall": "Call",
+  "lText": "Text",
+  "lHours": "Hours",
+  "lCost": "Cost",
+  "lLanguages": "Languages",
+  "callNow": "Call now",
+  "call988": "Call 988",
+  "visit": "Visit website",
+  "chat": "Chat online",
+  "checkedFull": "Details checked on the official website, {date}.",
+  "checkedPart": "Listing checked, {date}.",
+  "source": "Source",
+  "confirm": "Please confirm details with the organization.",
+  "michigan": "Michigan",
+  "national": "National",
+  "title": "Resources",
+  "language": "Language",
+  "aiNote": "This translation was written with the help of AI and has not yet been reviewed by a native speaker. The English version is the official one. Names, phone numbers and websites are shown as each organization publishes them.",
+  "nowTitle": "Need help right now?",
+  "nowIntro": "If you or a loved one is suffering from a mental health emergency, call or text 988 (Suicide and Crisis Lifeline). If someone is in immediate danger, call 911.",
+  "c1Name": "Suicide and Crisis Lifeline",
+  "c1Text": "Call or text, 24 hours a day. Free and confidential.",
+  "text988": "Text 988",
+  "c2Big": "Text HOME to 741741",
+  "c2Text": "Text with a volunteer crisis counselor, 24 hours a day. Free.",
+  "openText": "Open a text",
+  "c3Text": "A free, confidential peer support helpline run by Naseeha, open 24 hours a day.",
+  "dirTitle": "Find a resource",
+  "dirIntro": "Search by name or need, or narrow the list by what you need help with, type of help, community, or location. This directory is free and open to people of all backgrounds. The organizations listed are independent of The Shifa Institute, which provides education and community programming, not clinical treatment.",
+  "search": "Search",
+  "fTopic": "I need help with",
+  "anyTopic": "Anything",
+  "fType": "Type of help",
+  "anyType": "All types",
+  "fCommunity": "Community",
+  "anyCommunity": "All communities",
+  "fArea": "Location",
+  "anyArea": "Anywhere",
+  "fGroup": "Group by",
+  "gTopic": "What it helps with",
+  "clear": "Clear filters",
+  "emptyTitle": "No resources match that search.",
+  "emptyText": "Try a shorter word, or clear the filters to see the full list. In an emergency, call or text 988.",
+  "g1Title": "Before you reach out",
+  "q1": "What should I have ready?",
+  "a1": "Your insurance card if you have one, the days and times you are free, and a sentence or two about what you want help with. You do not need a diagnosis to call.",
+  "q2": "What can I ask a therapist or clinic?",
+  "a2": "You can ask what a session costs, whether they take your insurance or offer a sliding scale, whether they have worked with clients of your faith or background, and which languages they offer.",
+  "q3": "What if the first one is not a good fit?",
+  "a3": "That is common. You can try someone else. A directory in the list above lets you compare several providers before you choose.",
+  "q4": "Is my call private?",
+  "a4": "Most helplines say they are confidential, and many let you stay anonymous. Each listing links to the organization's own website, where you can read its privacy rules before you call.",
+  "q5": "I am a student. Where do I start?",
+  "a5": "Your campus counseling center is usually free for enrolled students. Choose \"Campus counseling\" under Type of help to find the five universities with a chapter of Shifa.",
+  "g2Title": "Words you may hear",
+  "w1": "Therapist or counselor",
+  "d1": "A licensed professional who provides talk therapy. Therapists do not prescribe medication.",
+  "w2": "Psychiatrist",
+  "d2": "A medical doctor who can diagnose mental health conditions and prescribe medication.",
+  "w3": "Advocate",
+  "d3": "A trained person at a survivor support organization who can explain your options, help you make a safety plan, and go with you to appointments. An advocate is not a lawyer or a therapist.",
+  "w4": "Sliding scale",
+  "d4": "A fee that goes down based on your income. Ask about it if cost is a concern.",
+  "w5": "Telehealth",
+  "d5": "Sessions held by video or phone instead of in person.",
+  "w6": "Warmline",
+  "d6": "A phone line for when you want to talk to someone but are not in crisis. Warmlines are often staffed by people who have lived through similar struggles.",
+  "w7": "CAPS",
+  "d7": "Counseling and Psychological Services, the name many universities use for their student counseling center.",
+  "report": "Each listing shows the date it was last checked. A listing is not an endorsement, and details can change, so please confirm them with the organization. If you find something out of date, or know of a resource we should add, please email",
+  "termsLink": "Read the terms for this directory.",
+  "searchHint": "Try \"therapist\", \"Arabic\" or \"Dearborn\""
+ },
+ "tax": {
+  "Ann Arbor and Washtenaw County": "Ann Arbor and Washtenaw County",
+  "Arab American": "Arab American",
+  "Asian and Pacific Islander": "Asian and Pacific Islander",
+  "Black communities": "Black communities",
+  "Campus counseling": "Campus counseling",
+  "Children and youth": "Children and youth",
+  "Community support": "Community support",
+  "Counseling and clinics": "Counseling and clinics",
+  "Crisis line": "Crisis line",
+  "Deaf and hard of hearing": "Deaf and hard of hearing",
+  "Dearborn": "Dearborn",
+  "Detroit and Wayne County": "Detroit and Wayne County",
+  "Domestic and dating violence": "Domestic and dating violence",
+  "East Lansing and Ingham County": "East Lansing and Ingham County",
+  "Eating disorders": "Eating disorders",
+  "Education and tools": "Education and tools",
+  "Everyone": "Everyone",
+  "General mental health": "General mental health",
+  "Grief and loss": "Grief and loss",
+  "Helpline": "Helpline",
+  "Human trafficking": "Human trafficking",
+  "Immigrants and refugees": "Immigrants and refugees",
+  "LGBTQ+": "LGBTQ+",
+  "Latinx communities": "Latinx communities",
+  "Macomb County": "Macomb County",
+  "Men": "Men",
+  "Michigan statewide": "Michigan statewide",
+  "Muslim community": "Muslim community",
+  "Native communities": "Native communities",
+  "Oakland County": "Oakland County",
+  "Older adults": "Older adults",
+  "Pregnancy and new parents": "Pregnancy and new parents",
+  "Sexual assault and abuse": "Sexual assault and abuse",
+  "South Asian": "South Asian",
+  "Southeast Michigan": "Southeast Michigan",
+  "Students and youth": "Students and youth",
+  "Substance use and recovery": "Substance use and recovery",
+  "Suicide and crisis": "Suicide and crisis",
+  "Therapist directory": "Therapist directory",
+  "Veterans": "Veterans"
+ },
+ "res": {
+  "michigan-state-university-counseling-psychological-services-": {
+   "d": "Counseling and crisis support for MSU students, in person and virtual. Ongoing services are not available to students living outside Michigan.",
+   "hours": "Monday to Friday, 8 a.m. to 5 p.m.; crisis counselors 24/7 by pressing 1"
+  },
+  "university-of-michigan-counseling-and-psychological-services": {
+   "d": "Counseling and psychological services through University Health Service for University of Michigan Ann Arbor students, at the Michigan Union.",
+   "hours": "Monday to Thursday 8 a.m. to 6 p.m. (5 p.m. in spring/summer); Friday 8 a.m. to 5 p.m."
+  },
+  "university-of-michigan-dearborn-counseling-and-psychological": {
+   "d": "Free counseling for current University of Michigan-Dearborn students, in person or remote, with after-hours phone access to a licensed clinician.",
+   "hours": "Office Monday to Thursday 8 a.m. to 5 p.m., Friday 9 a.m. to 5 p.m.; after hours, weekends and closures call and press 2 for a licensed clinician",
+   "cost": "Free for enrolled students"
+  },
+  "wayne-state-university-counseling-and-psychological-services": {
+   "d": "Counseling and a free mental health assessment for currently enrolled Wayne State students, with a 24-hour phone line outside office hours.",
+   "hours": "Office Monday to Friday, 8:30 a.m. to 5 p.m.; at all other times and during closures call 313-577-CAPS (2277)"
+  },
+  "university-of-detroit-mercy-wellness-center-personal-counsel": {
+   "d": "Personal counseling with Michigan-licensed clinicians for University of Detroit Mercy students, requested through an online contact form or email.",
+   "cost": "Free for enrolled students"
+  },
+  "michigan-crisis-and-access-line-mical-and-988": {
+   "d": "Free, confidential crisis counseling by call or text for anyone in Michigan in emotional distress, a mental health or substance use crisis, or worried about someone.",
+   "text": "988",
+   "hours": "24/7",
+   "cost": "Free"
+  },
+  "michigan-211": {
+   "d": "Free, confidential referrals to local help such as food, housing, bills and crisis support, by phone, text or chat. Open to anyone in Michigan.",
+   "text": "Text your zip code to 898211",
+   "hours": "24 hours a day",
+   "cost": "Free",
+   "languages": "180+ languages (as stated)"
+  },
+  "detroit-wayne-integrated-health-network-dwihn-crisis-and-sup": {
+   "d": "Free, confidential 24/7 crisis and support line for anyone in Wayne County facing a mental health or substance use emergency, with mobile crisis and walk-in options.",
+   "text": "Text HOME to 741741",
+   "hours": "24/7",
+   "cost": "Free"
+  },
+  "washtenaw-county-community-mental-health-crisis-services": {
+   "d": "Round-the-clock phone crisis line, mobile crisis team and suicide risk assessments for Washtenaw County residents with urgent needs.",
+   "hours": "24/7"
+  },
+  "oakland-community-health-network-ochn-crisis-line": {
+   "d": "Crisis line for anyone in Oakland County in a suicidal, mental health or substance use crisis, with a separate mobile crisis unit for adults.",
+   "hours": "24 hours, 7 days"
+  },
+  "common-ground-crisis-hub": {
+   "d": "Free, confidential crisis support, 24/7 by phone, with text and chat through 988, for anyone seeking crisis help, run by a Michigan crisis agency.",
+   "text": "988",
+   "hours": "24/7",
+   "cost": "Free"
+  },
+  "macomb-county-community-mental-health-mccmh-crisis-line": {
+   "d": "Crisis line answered day and night for Macomb County residents in a mental health crisis, run by Macomb County Community Mental Health.",
+   "hours": "24 hours a day, 7 days a week"
+  },
+  "community-mental-health-authority-of-clinton-eaton-and-ingha": {
+   "d": "24/7 crisis triage, evaluation and screening for psychiatric emergencies for residents of Clinton, Eaton and Ingham counties, including the East Lansing area.",
+   "hours": "24/7"
+  },
+  "my-mental-wellness-helpline-islamic-center-of-detroit": {
+   "d": "Free, anonymous after-hours peer listening line with faith-informed, culturally sensitive responders, run through Naseeha. Not a therapy or crisis line.",
+   "hours": "Monday to Friday, 6 p.m. to 10 p.m.",
+   "cost": "Free"
+  },
+  "my-mental-wellness-clinic-islamic-center-of-detroit": {
+   "d": "Free, faith-based and culturally guided therapy with licensed clinicians for children, teens, adults and elders, in person at the Islamic Center of Detroit or virtually.",
+   "hours": "Monday to Friday, 9:30 a.m. to 5:30 p.m.",
+   "cost": "Free"
+  },
+  "michigan-muslim-mental-health-directory-the-family-youth-ins": {
+   "d": "A community-based directory developed by The Family & Youth Institute to connect Michigan Muslims with faith-sensitive therapists across the state."
+  },
+  "icna-relief-michigan-muslim-family-services-counseling": {
+   "d": "Free and low-cost social services, including refugee support, food aid, and limited mental health services tailored to the needs of Michigan's Muslim communities."
+  },
+  "cognitive-care-center": {
+   "d": "Psychiatric evaluations, therapy, and medication management for children and adults, with providers experienced in treating clients from Muslim and minority backgrounds.",
+   "hours": "Monday to Saturday 9 a.m. to 8 p.m.; Sunday by appointment",
+   "cost": "Insurance accepted",
+   "languages": "Most staff bilingual (languages not listed)"
+  },
+  "arab-community-center-for-economic-and-social-services-acces": {
+   "d": "Counseling, psychiatric services, case management and peer support for adults, children and families in Southeast Michigan, including Arab American and immigrant communities.",
+   "languages": "Bilingual staff (languages not listed)"
+  },
+  "chaldean-community-foundation-project-light": {
+   "d": "Mental health screening, consultation and therapy from licensed trilingual therapists for Michigan residents aged 13 and up, regardless of insurance status.",
+   "languages": "Trilingual therapists (languages not listed)"
+  },
+  "988-suicide-crisis-lifeline": {
+   "d": "Call, text or chat with a trained crisis counselor about suicidal thoughts, emotional distress or any mental health crisis.",
+   "text": "Text 988",
+   "hours": "24/7/365",
+   "cost": "Free and confidential",
+   "languages": "English and Spanish (site states text and chat are available in Spanish)"
+  },
+  "crisis-text-line": {
+   "d": "Text with a volunteer crisis counselor for support during a crisis or any hard moment.",
+   "text": "Text HOME to 741741 (Spanish: text HOLA)",
+   "hours": "24/7",
+   "cost": "Free and confidential",
+   "languages": "English and Spanish"
+  },
+  "samhsa-national-helpline": {
+   "d": "Treatment referral and information service for mental health conditions and substance use, for individuals and families.",
+   "text": "Text your ZIP code to 435748 (HELP4U)",
+   "hours": "24/7, 365 days a year",
+   "cost": "Free",
+   "languages": "English and Spanish by phone; text service is English only"
+  },
+  "naseeha-mental-health-helpline": {
+   "d": "Free peer support helpline run by Naseeha, open around the clock for people who want someone to talk to.",
+   "hours": "24/7",
+   "cost": "Free and confidential"
+  },
+  "the-trevor-project": {
+   "d": "Crisis counselors reachable by phone, text or online chat for LGBTQ+ young people.",
+   "text": "Text START to 678-678",
+   "hours": "24/7/365",
+   "cost": "Free and confidential"
+  },
+  "veterans-crisis-line": {
+   "d": "Confidential support by phone, text or chat for veterans, service members and their families in crisis.",
+   "text": "Text 838255",
+   "hours": "24/7, 365 days a year",
+   "cost": "Free and confidential"
+  },
+  "stronghearts-native-helpline": {
+   "d": "Confidential helpline for Native Americans and Alaska Natives affected by domestic, dating or sexual violence.",
+   "text": "Text START to 1-844-762-8483",
+   "hours": "24/7",
+   "cost": "Free"
+  },
+  "disaster-distress-helpline": {
+   "d": "Crisis counseling by phone or text for people distressed by a disaster, including natural and human-caused events.",
+   "text": "Text 1-800-985-5990",
+   "hours": "24/7",
+   "cost": "Free (toll-free; standard text rates may apply)",
+   "languages": "Over 100 languages via interpretation; Spanish: press 2"
+  },
+  "trans-lifeline": {
+   "d": "Peer support hotline for trans and questioning people, answered by phone on weekdays.",
+   "hours": "Monday to Friday, 1 PM to 9 PM Eastern (10 AM to 6 PM Pacific)",
+   "languages": "English and Spanish"
+  },
+  "muslim-therapist-directory": {
+   "d": "An online platform that connects individuals with licensed Muslim mental health professionals across various regions."
+  },
+  "institute-for-muslim-mental-health": {
+   "d": "Research, training and resources on Muslim American mental health, with a link to the Muslim Therapist Directory."
+  },
+  "maristan": {
+   "d": "A collection of mental health tools, articles, and educational materials designed to support Muslim communities through spiritually integrated care and culturally sensitive guidance."
+  },
+  "khalil-center": {
+   "d": "Clinical services integrating Islamic spirituality and psychology. Offers individual therapy, workshops, and training for professionals.",
+   "cost": "Insurance accepted; sliding scale financial assistance"
+  },
+  "ruh-care": {
+   "d": "Online therapy by phone or video with licensed Muslim therapists, for individuals, couples, children and families.",
+   "cost": "$120 to $200 per session; sliding scale assistance for those without insurance",
+   "languages": "ASL, Arabic, Bangla, Creole, English, Farsi, French, German, Harari, Hindi, Malayalam, Pashto, Punjabi, Rohingya, Sindhi, Somali, Tamil, Urdu, Wolof"
+  },
+  "the-family-youth-institute": {
+   "d": "National nonprofit offering a resource hub on Muslim American mental health, covering stigma, suicide, grief, therapy, parenting and youth."
+  },
+  "muslim-mental-health-and-islamic-psychology-lab-stanford": {
+   "d": "Stanford Medicine research lab publishing studies, suicide response guidance and trainings on Islamic psychology and Muslim mental health."
+  },
+  "muslim-mental-health-consortium-michigan-state-university": {
+   "d": "Hosts the annual Muslim Mental Health Conference and related resources for practitioners, faith leaders and community members."
+  },
+  "black-mental-health-alliance": {
+   "d": "Education, training, and resources to support mental wellness in Black communities, including a therapist referral service."
+  },
+  "beam": {
+   "d": "Healing, training, and peer support for Black individuals and families with a trauma-informed, community-centered approach."
+  },
+  "therapy-for-black-girls": {
+   "d": "Directory of culturally responsive therapists at providers.therapyforblackgirls.com, plus a podcast and blog."
+  },
+  "latinx-therapy": {
+   "d": "Bilingual therapy directories, podcast episodes, and resources aimed at dismantling mental health stigma in Latinx communities.",
+   "cost": "Sliding scale and private pay (varies by provider)",
+   "languages": "English and Spanish; some providers also Spanglish"
+  },
+  "asian-mental-health-collective": {
+   "d": "A therapist directory and mental health resources designed to make care more accessible for Asian and Pacific Islander individuals.",
+   "cost": "Therapy Fund is free (16 sessions over six months, by application); directory cost not stated"
+  },
+  "south-asian-mental-health-initiative-and-network-samhin": {
+   "d": "Non-emergency helpline, support groups and a provider directory for South Asian communities in the US.",
+   "hours": "10:00 AM to 7:00 PM ET daily"
+  },
+  "the-steve-fund": {
+   "d": "Supports the mental health and emotional well-being of young people of color through campus programs, research, and crisis support.",
+   "text": "Text STEVE to 741741",
+   "hours": "24/7"
+  },
+  "we-r-native": {
+   "d": "Health and wellness resource for Native youth, with articles, an Ask Your Relative question service and text message programs."
+  },
+  "national-queer-and-trans-therapists-of-color-network": {
+   "d": "National directory of queer and trans therapists of color, plus a practitioner membership program and community resources."
+  },
+  "open-path-collective": {
+   "d": "Directory of therapists offering reduced-rate sessions to members who pay a one-time membership fee.",
+   "cost": "Low-cost sessions set by therapist plus a one-time membership fee"
+  },
+  "psychology-today-therapist-finder": {
+   "d": "Searchable directory of therapists by location, concern and specialty."
+  },
+  "rainn-national-sexual-assault-hotline": {
+   "d": "Talk by phone, text or online chat with a trained staff member who supports survivors of sexual violence and their loved ones.",
+   "text": "Text HOPE to 64673",
+   "hours": "24/7",
+   "cost": "Free and confidential",
+   "languages": "English and Spanish"
+  },
+  "1in6": {
+   "d": "Free, counselor-facilitated text-based online support groups for men 18 and older who experienced sexual abuse or assault. Peer support, not therapy or crisis service.",
+   "hours": "Weekly online sessions, about 1 hour each, several evenings and one midday per week (Eastern and Pacific times listed on site)",
+   "cost": "Free"
+  },
+  "dod-safe-helpline": {
+   "d": "Support by phone and online chat for members of the Department of Defense community and their loved ones affected by sexual assault."
+  },
+  "national-domestic-violence-hotline": {
+   "d": "Call, text or chat with an advocate about domestic violence, safety planning and local resources.",
+   "text": "Text START to 88788",
+   "hours": "24/7",
+   "cost": "Free and confidential",
+   "languages": "English and Spanish (Spanish site at espanol.thehotline.org)"
+  },
+  "national-domestic-violence-hotline-deaf-hotline": {
+   "d": "A videophone line for Deaf and hard of hearing people to reach an advocate about domestic violence.",
+   "languages": "American Sign Language"
+  },
+  "love-is-respect": {
+   "d": "Phone, text and live chat support for teens and young adults about dating abuse and unhealthy relationships, plus information for friends and family.",
+   "text": "Text LOVEIS to 22522",
+   "languages": "English and Spanish site"
+  },
+  "peaceful-families-project": {
+   "d": "A Muslim-focused nonprofit offering domestic violence toolkits and a directory that connects survivors with domestic violence organizations and shelters across the US and Canada."
+  },
+  "heart-health-education-advocacy-research-and-training": {
+   "d": "A Chicago-based nonprofit offering faith-informed sexual health and violence education and a Get Support section for Muslim communities."
+  },
+  "tahirih-justice-center": {
+   "d": "Free legal services and case management for immigrant women, girls and survivors of gender-based violence, with offices in VA, GA, MD, TX and CA.",
+   "cost": "Free legal services"
+  },
+  "esperanza-united": {
+   "d": "A national resource center for Latin@ communities with a directory of national and local organizations and guides on domestic and sexual violence.",
+   "languages": "English and Spanish"
+  },
+  "womenslaw-org-email-hotline": {
+   "d": "Free-to-read US legal information on domestic violence, sexual assault and stalking, with an email hotline answered by attorneys. It gives legal information, not legal advice.",
+   "hours": "Replies within 1 to 5 business days"
+  },
+  "national-human-trafficking-hotline": {
+   "d": "Confidential phone, text and chat help for victims and survivors of human trafficking and people who suspect trafficking.",
+   "text": "Text 233733",
+   "hours": "24/7",
+   "languages": "English and Spanish site"
+  },
+  "childhelp-national-child-abuse-hotline": {
+   "d": "Phone, text and chat with a counselor for children, teens and adults concerned about child abuse. It is not a reporting line.",
+   "text": "Text GO to 800.422.4453",
+   "languages": "English; Se Habla Espanol"
+  },
+  "national-runaway-safeline": {
+   "d": "Crisis support by phone, text and chat for youth who are thinking of running away or are homeless, and for their families.",
+   "text": "Text 1-800-786-2929",
+   "hours": "24/7",
+   "cost": "Free"
+  },
+  "boys-town-national-hotline": {
+   "d": "Counselors answer calls and texts from kids, teens and parents about crisis, family conflict, abuse and other concerns.",
+   "text": "Text VOICE to 20121",
+   "hours": "24 hours a day, 365 days a year",
+   "languages": "English; Spanish-speaking counselors; translation for more than 100 languages"
+  },
+  "youthline": {
+   "d": "Free peer-to-peer support, help and crisis line for youth up to age 24, by phone, text, chat or email.",
+   "text": "Text 839863",
+   "hours": "Youth volunteers daily 4 to 10 PM Pacific; adults staff the phone at other times",
+   "cost": "Free",
+   "languages": "English; live interpreter available on phone calls"
+  },
+  "eldercare-locator": {
+   "d": "A federal service that connects older adults and caregivers with local aging services, including help with elder abuse and caregiving."
+  },
+  "partnership-to-end-addiction-helpline": {
+   "d": "Parents and families can call, text or email a specialist to get help for a child or loved one struggling with substance use.",
+   "text": "Text CONNECT to 55753",
+   "cost": "Free, confidential and safe"
+  },
+  "alcoholics-anonymous-find-a-meeting": {
+   "d": "Find in-person A.A. meetings through the Meeting Guide app or local A.A. resources, and online meetings through the Online Intergroup."
+  },
+  "narcotics-anonymous-meeting-search": {
+   "d": "Find in-person NA meetings through local NA communities and online meetings through the Virtual Meeting Finder, or use the free meeting search app."
+  },
+  "millati-islami": {
+   "d": "A twelve-step recovery fellowship grounded in Islamic principles, with in-person meetings in major cities, Zoom meetings most days, and a telephone meeting."
+  },
+  "anad-eating-disorders-helpline": {
+   "d": "A free helpline offering emotional support and referrals for people affected by eating disorders. Messages left outside open hours are returned.",
+   "hours": "Monday to Friday, 9 AM to 9 PM Central",
+   "cost": "Free"
+  },
+  "national-alliance-for-eating-disorders-helpline": {
+   "d": "A free helpline for people with eating disorders and their families, with referrals to treatment and support.",
+   "hours": "9:00 AM to 7:00 PM Eastern, Monday to Friday",
+   "cost": "Free"
+  },
+  "national-maternal-mental-health-hotline": {
+   "d": "Free confidential support by call or text for pregnant and postpartum people and their families, answered by trained counselors and peer specialists.",
+   "text": "Text 1-833-852-6262",
+   "hours": "24/7",
+   "cost": "Free and confidential",
+   "languages": "English and Spanish; interpreters for over 60 languages"
+  },
+  "postpartum-support-international-helpline": {
+   "d": "Volunteers return calls and texts with support, information and referrals for perinatal mood and anxiety concerns. It is not a crisis line.",
+   "text": "Text HELP to 800-944-4773 (English); text 971-203-7773 (Spanish)",
+   "hours": "Leave a message anytime; volunteers return calls and texts daily, 8 AM to 11 PM Eastern",
+   "cost": "Free (toll-free call)",
+   "languages": "English and Spanish"
+  },
+  "the-dougy-center": {
+   "d": "Free grief toolkits and education for grieving children, teens and families, plus a worldwide directory of peer grief support programs.",
+   "cost": "Resources described as free"
+  },
+  "the-compassionate-friends": {
+   "d": "Grief support for families after the death of a child at any age, through more than 500 local chapters and online groups."
+  },
+  "american-foundation-for-suicide-prevention-i-ve-lost-someone": {
+   "d": "Support for people bereaved by suicide, including Healing Conversations with trained survivor volunteers, a support group directory, guides and a clinician directory.",
+   "languages": "English and Spanish (Surviving a Suicide Loss booklet)"
+  },
+  "alliance-of-hope-for-suicide-loss-survivors": {
+   "d": "An online forum and resources for people who have lost someone to suicide, with a supportive community of other survivors."
+  },
+  "cdc-caring-for-your-mental-health": {
+   "d": "A CDC page with tips and links for crisis support, finding providers, peer support, basic needs and hotlines for violence, abuse and trafficking."
+  },
+  "nimh-help-for-mental-illnesses": {
+   "d": "Guidance on getting immediate help, finding a provider or treatment, judging whether a provider is a good fit, and learning about mental disorders."
+  },
+  "nami-helpline": {
+   "d": "Trained staff and volunteers offer information, referrals and support for people with mental health conditions and their families. It is not a crisis line.",
+   "text": "Text NAMI to 62640",
+   "hours": "Monday to Friday, 10 AM to 10 PM Eastern"
+  },
+  "mental-health-america-screening-tools": {
+   "d": "Free, anonymous online screening tests for depression, anxiety, PTSD and other conditions, with next-step resources. Results are not a diagnosis.",
+   "cost": "Free and confidential"
+  },
+  "findtreatment-gov": {
+   "d": "SAMHSA's locator for mental health and substance use treatment facilities, filterable by location, services and payment accepted.",
+   "cost": "Free and confidential",
+   "languages": "English and Spanish"
+  },
+  "hrsa-find-a-health-center": {
+   "d": "A federal tool to find health centers that give primary and often behavioral health care, with fees scaled to income whether or not you have insurance.",
+   "cost": "Sliding fee based on ability to pay"
+  },
+  "warmline-org-directory": {
+   "d": "A state-by-state directory of peer-run warmlines, where you can talk with someone before a situation becomes a crisis. Some lines accept calls nationwide."
+  },
+  "inclusive-therapists": {
+   "d": "A nationwide directory centering BIPOC, LGBTQ+, and neurodivergent therapists, with filters for cultural, spiritual, and language-based needs.",
+   "cost": "Varies by provider"
+  }
+ }
+}

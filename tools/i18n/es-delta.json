@@ -1,0 +1,172 @@
+{
+ "tax": {
+  "Jewish communities": "Comunidades judías"
+ },
+ "res": {
+  "amala-muslim-youth-hopeline-mas-social-services-foundation": {
+   "d": "Línea de ayuda atendida por voluntarios de 18 a 30 años para jóvenes musulmanes, a cargo de la MAS Social Services Foundation.",
+   "hours": "De 6 p. m. a 10 p. m., hora del Pacífico, lunes, miércoles, viernes, sábado y domingo",
+   "cost": "Gratis, anónima y confidencial"
+  },
+  "american-muslim-health-professionals": {
+   "d": "Organización nacional sin fines de lucro que ofrece capacitaciones de Mental Health First Aid, una guía de salud mental, seminarios web y una página de clínicas gratuitas para musulmanes."
+  },
+  "black-men-heal": {
+   "d": "Organización sin fines de lucro de Filadelfia que conecta a hombres de color con terapeutas de color, grupos virtuales semanales y terapia grupal sobre la violencia con armas.",
+   "cost": "Los clientes seleccionados reciben 8 sesiones de terapia gratis"
+  },
+  "the-loveland-foundation-therapy-fund": {
+   "d": "Fondo que ayuda a mujeres negras y a personas no binarias a pagar la terapia, con un directorio de terapeutas que entienden su cultura.",
+   "cost": "Ayuda económica para 4 a 12 sesiones de terapia"
+  },
+  "boris-l-henson-foundation": {
+   "d": "Fundación que ofrece la guía Let's Talk con terapeutas y profesionales de bienestar para comunidades BIPOC, además de un programa escolar y centros de recursos."
+  },
+  "call-blackline": {
+   "d": "Línea de apoyo entre pares para comunidades negras, morenas, nativas y musulmanas, hecha por y para esas comunidades, según su sitio."
+  },
+  "national-asian-american-pacific-islander-mental-health-assoc": {
+   "d": "Organización sin fines de lucro con capacitaciones, una biblioteca de recursos y trabajo de políticas públicas sobre salud mental para comunidades asiático-americanas, nativas hawaianas y de las islas del Pacífico."
+  },
+  "deqh-desi-lgbtq-helpline-for-south-asians": {
+   "d": "Línea de ayuda de voluntarios para personas LGBTQ de origen sudasiático, con pocas horas a la semana y opción de que les devuelvan la llamada.",
+   "hours": "Jueves y domingos, de 8 p. m. a 10 p. m., hora del Este; puede dejar un mensaje con instrucciones seguras para devolverle la llamada",
+   "cost": "Gratis y confidencial"
+  },
+  "nctsn-refugee-trauma-resources": {
+   "d": "Centro de la National Child Traumatic Stress Network con información, guía de evaluación y recursos de intervención sobre el trauma en niños y familias refugiadas.",
+   "cost": "Gratis"
+  },
+  "the-jed-foundation-mental-health-resource-center": {
+   "d": "Artículos y consejos para adolescentes y jóvenes sobre el estrés, la soledad, el trauma, la identidad, cómo encontrar terapia y atención de bajo costo.",
+   "text": "Envíe HOME o HOLA por mensaje de texto al 741741",
+   "languages": "Inglés, español (palabra clave HOLA de Crisis Text Line)"
+  },
+  "active-minds": {
+   "d": "Organización sin fines de lucro que apoya grupos estudiantiles de salud mental, programas entre compañeros y programas para escuelas y jóvenes, con enlaces de crisis en su sitio.",
+   "text": "Envíe BRAVE por mensaje de texto al 741741"
+  },
+  "seize-the-awkward": {
+   "d": "Sitio de una campaña con videos e ideas para empezar conversaciones, que ayuda a los jóvenes a preguntarles a sus amigos cómo están de salud mental.",
+   "text": "Envíe SEIZE por mensaje de texto al 741741"
+  },
+  "national-federation-of-families": {
+   "d": "Organización nacional dirigida por familias que conecta a familias de niños y adultos con necesidades de salud mental o de consumo de sustancias con apoyo entre familias y defensa de sus derechos."
+  },
+  "give-an-hour": {
+   "d": "Organización sin fines de lucro con grupos semanales de apoyo entre pares, incluidos grupos para militares, veteranos y familias militares, y capacitaciones con enfoque en el trauma."
+  },
+  "military-onesource-confidential-counseling": {
+   "d": "Servicio del Departamento de Defensa que ofrece consejería gratuita a corto plazo, no médica, por teléfono y chat para miembros del servicio militar y sus familias.",
+   "hours": "Las 24 horas, todos los días, por teléfono o chat seguro en vivo",
+   "cost": "Gratis, a corto plazo y confidencial"
+  },
+  "vet-centers-u-s-department-of-veterans-affairs": {
+   "d": "Centros comunitarios de consejería del VA para veteranos elegibles, miembros del servicio militar, incluidos la Guardia y la Reserva, y sus familias, con un centro de llamadas las 24 horas.",
+   "hours": "Centro de llamadas abierto las 24 horas",
+   "cost": "Gratis; la consejería no tiene costo"
+  },
+  "institute-on-aging-friendship-line": {
+   "d": "Línea gratuita para adultos de 60 años o más, adultos con discapacidades y cuidadores que quieren apoyo emocional, sin necesidad de estar en crisis.",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis y confidencial",
+   "languages": "Inglés; cantonés y mandarín 888-670-2504; coreano 888-560-7684; español 888-571-0411; tagalo 888-570-0867; vietnamita 888-670-1361; ruso 888-560-7360"
+  },
+  "ozone-house": {
+   "d": "Agencia para jóvenes de 10 a 24 años y sus familias, con línea de crisis, refugio, consejería, comidas sin cita y ayuda con la vivienda.",
+   "cost": "Gratis"
+  },
+  "safehouse-center": {
+   "d": "Agencia del condado de Washtenaw con línea de ayuda las 24 horas, refugio de emergencia, apoyo legal, grupos de apoyo y consejería de crisis para sobrevivientes de violencia doméstica y sexual.",
+   "hours": "Línea de ayuda las 24 horas; recepción abierta sin cita de lunes a viernes, de 9 a. m. a 4 p. m.",
+   "cost": "Gratis y confidencial para sobrevivientes que viven, trabajan o sufrieron el daño en el condado de Washtenaw",
+   "languages": "Inglés, español (mismo número)"
+  },
+  "corner-health-center": {
+   "d": "Centro de salud de Ypsilanti para jóvenes que ofrece atención de salud mental, psiquiatría y programas de bienestar emocional en las escuelas.",
+   "cost": "Dicen que es accesible; vea la página de seguros y pagos del sitio"
+  },
+  "packard-health": {
+   "d": "Centro de salud con calificación federal que ofrece atención de salud conductual en sus instalaciones, con evaluación, psicoterapia y consulta de psiquiatría, junto con Washtenaw County CMH.",
+   "hours": "Lunes a viernes, de 8 a. m. a 5 p. m.; sábado, de 8 a. m. a mediodía; servicio de contestadora fuera de horario",
+   "cost": "No se indica; centro de salud con calificación federal"
+  },
+  "nami-washtenaw-county": {
+   "d": "Filial local de NAMI que ofrece grupos de apoyo, clases Family-to-Family, defensa de derechos y una guía de recursos.",
+   "hours": "Horario de oficina lunes, martes y jueves, de 12 p. m. a 5 p. m."
+  },
+  "garrett-s-space": {
+   "d": "Organización sin fines de lucro con grupos virtuales gratuitos de apoyo entre pares cada semana y reuniones mensuales en persona para jóvenes de 18 a 28 años con depresión, ansiedad o pensamientos suicidas.",
+   "cost": "Grupos gratis"
+  },
+  "dawn-farm": {
+   "d": "Organización sin fines de lucro que ofrece desintoxicación, tratamiento de adicciones con internado y ambulatorio, vivienda de transición, servicios para jóvenes y familias, y apoyo entre pares.",
+   "cost": "No se indica; hay becas para el tratamiento con internado de largo plazo"
+  },
+  "home-of-new-vision": {
+   "d": "Organización de recuperación de Ann Arbor cuyo equipo de atención incluye clínicos, personal de salud mental, guías de recuperación entre pares y gestores de casos.",
+   "hours": "Oficina principal de lunes a viernes, de 9 a. m. a 5 p. m.",
+   "cost": "No se indica"
+  },
+  "jewish-family-services-of-washtenaw-county-thrive-counseling": {
+   "d": "Agencia local cuyo programa Thrive Counseling recibe solicitudes de cita para consejería.",
+   "hours": "Oficina central de lunes a jueves, de 9 a. m. a 5 p. m.; viernes, de 9 a. m. a 3 p. m."
+  },
+  "msu-center-for-survivors": {
+   "d": "Programa de MSU con apoyo en crisis las 24 horas, todos los días, defensa de derechos, consejería, refugio para violencia en la pareja y un programa de atención médica por agresión sexual.",
+   "hours": "Línea directa, chat de crisis y apoyo las 24 horas, todos los días",
+   "cost": "La línea directa y el apoyo están abiertos a cualquier persona en el área de Lansing; terapia gratis para estudiantes, profesores y personal de MSU; atención médica por agresión sexual sin costo"
+  },
+  "haven-oakland-county": {
+   "d": "Agencia del condado de Oakland con línea de crisis y apoyo las 24 horas que ofrece intervención, apoyo emocional, información y referencias para casos de violencia doméstica y sexual.",
+   "hours": "Las 24 horas",
+   "cost": "No se indica; no se necesita seguro para los exámenes de enfermería forense"
+  },
+  "first-step-wayne-county": {
+   "d": "Organización sin fines de lucro que atiende a sobrevivientes de violencia doméstica y sexual en el condado de Wayne, con línea de ayuda las 24 horas, plan de seguridad, apoyo y un grupo para hombres sobrevivientes.",
+   "hours": "Línea de ayuda las 24 horas",
+   "cost": "No se indica"
+  },
+  "turning-point-macomb-county": {
+   "d": "Agencia del condado de Macomb con línea directa las 24 horas, refugio de emergencia, consejería, apoyo para víctimas de trata de personas, enfermería forense y apoyo legal.",
+   "hours": "Línea directa las 24 horas",
+   "cost": "El sitio dice que sus servicios son gratuitos y confidenciales"
+  },
+  "ywca-interim-house-metro-detroit": {
+   "d": "Refugio seguro y línea de crisis las 24 horas para mujeres que huyen de la violencia de pareja, con gestión de casos, guía de enfermería y apoyo en las comisarías.",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "No se indica"
+  },
+  "voices4-hotline-michigan-coalition-to-end-domestic-and-sexua": {
+   "d": "Línea directa en todo el estado para sobrevivientes de agresión sexual, violencia doméstica y trata de personas, por teléfono, mensaje de texto o chat en línea.",
+   "text": "855-864-2374",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis, confidencial y anónima"
+  },
+  "michigan-peer-warmline": {
+   "d": "Línea atendida por personas con experiencia propia en salud mental para apoyo fuera de una crisis; se aceptan llamadas anónimas.",
+   "hours": "Todos los días, de 10 a. m. a 2 a. m. (no se indica la zona horaria)",
+   "cost": "Gratis, sin importar los ingresos ni el seguro"
+  },
+  "nami-michigan": {
+   "d": "Organización estatal de NAMI que ofrece programas educativos, programas entre pares, grupos de apoyo para familias y enlaces con filiales locales."
+  },
+  "ruth-ellis-center": {
+   "d": "Organización de Highland Park que atiende a jóvenes LGBTQ+ con sus programas para jóvenes y un centro de salud y bienestar junto con Henry Ford Health."
+  },
+  "southwest-solutions-counseling": {
+   "d": "Organización sin fines de lucro de Detroit con consejería para adultos, jóvenes y familias, salud mental en la primera infancia y una Certified Community Behavioral Health Clinic."
+  },
+  "hegira-health": {
+   "d": "Agencia de salud conductual del oeste del condado de Wayne con servicios de crisis, estabilización de atención urgente y revisiones previas a la hospitalización."
+  },
+  "neighborhood-service-organization-360-neighborhood-wellness-": {
+   "d": "Organización sin fines de lucro de Detroit cuyos 360 Neighborhood Wellness Centers ofrecen servicios de salud conductual en tres sedes."
+  },
+  "american-indian-health-and-family-services-of-southeast-mich": {
+   "d": "Clínica de Detroit que atiende a indígenas americanos y nativos de Alaska y a otros residentes con pocos servicios en el sureste de Michigan, con servicios de salud conductual.",
+   "hours": "Salud conductual de lunes a viernes, de 9 a. m. a 5 p. m.; jueves, de 10:30 a. m. a 7 p. m.",
+   "cost": "No se indica"
+  }
+ }
+}

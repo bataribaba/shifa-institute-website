@@ -1,0 +1,502 @@
+{
+ "ui": {
+  "showingAll": "Mostrando los {n} recursos",
+  "showingSome": "Mostrando {a} de {n} recursos",
+  "lCall": "Llamar",
+  "lText": "Mensaje de texto",
+  "lHours": "Horario",
+  "lCost": "Costo",
+  "lLanguages": "Idiomas",
+  "callNow": "Llamar ahora",
+  "call988": "Llamar al 988",
+  "visit": "Visitar el sitio web",
+  "chat": "Chatear en línea",
+  "checkedFull": "Datos verificados en el sitio web oficial, {date}.",
+  "checkedPart": "Listado verificado, {date}.",
+  "source": "Fuente",
+  "confirm": "Por favor, confirme los datos con la organización.",
+  "michigan": "Míchigan",
+  "national": "Nacional",
+  "title": "Recursos",
+  "language": "Idioma",
+  "aiNote": "Esta traducción se hizo con ayuda de inteligencia artificial y todavía no la ha revisado una persona de habla hispana nativa. La versión en inglés es la oficial. Los nombres, números de teléfono y sitios web se muestran tal como los publica cada organización.",
+  "nowTitle": "¿Necesita ayuda ahora mismo?",
+  "nowIntro": "Si usted o un ser querido está pasando por una emergencia de salud mental, llame o envíe un mensaje de texto al 988 (Línea de Prevención del Suicidio y Crisis). Si alguien está en peligro inmediato, llame al 911.",
+  "c1Name": "Línea de Prevención del Suicidio y Crisis",
+  "c1Text": "Llame o envíe un mensaje de texto, las 24 horas del día. Es gratis y confidencial.",
+  "text988": "Enviar texto al 988",
+  "c2Big": "Envíe HOME por mensaje de texto al 741741",
+  "c2Text": "Escriba con un consejero voluntario de crisis, las 24 horas del día. Es gratis.",
+  "openText": "Abrir un mensaje de texto",
+  "c3Text": "Una línea gratuita y confidencial de apoyo entre personas, dirigida por Naseeha, abierta las 24 horas del día.",
+  "dirTitle": "Encuentre un recurso",
+  "dirIntro": "Busque por nombre o necesidad, o reduzca la lista según el tema de ayuda, el tipo de ayuda, la comunidad o el lugar. Este directorio es gratuito y está abierto a personas de todos los orígenes. Las organizaciones que aparecen son independientes de The Shifa Institute, que ofrece educación y programas comunitarios, no tratamiento clínico.",
+  "search": "Buscar",
+  "fTopic": "Necesito ayuda con",
+  "anyTopic": "Cualquier tema",
+  "fType": "Tipo de ayuda",
+  "anyType": "Todos los tipos",
+  "fCommunity": "Comunidad",
+  "anyCommunity": "Todas las comunidades",
+  "fArea": "Lugar",
+  "anyArea": "Cualquier lugar",
+  "fGroup": "Agrupar por",
+  "gTopic": "En qué ayuda",
+  "clear": "Borrar filtros",
+  "emptyTitle": "Ningún recurso coincide con esa búsqueda.",
+  "emptyText": "Pruebe con una palabra más corta o borre los filtros para ver la lista completa. En una emergencia, llame o envíe un mensaje de texto al 988.",
+  "g1Title": "Antes de comunicarse",
+  "q1": "¿Qué debo tener a la mano?",
+  "a1": "Su tarjeta del seguro, si tiene una, los días y horas en que está libre, y una o dos frases sobre en qué quiere ayuda. No necesita un diagnóstico para llamar.",
+  "q2": "¿Qué puedo preguntarle a un terapeuta o clínica?",
+  "a2": "Puede preguntar cuánto cuesta una sesión, si aceptan su seguro o tienen tarifas según sus ingresos, si han trabajado con personas de su fe o su origen, y en qué idiomas atienden.",
+  "q3": "¿Y si el primero no es el indicado para mí?",
+  "a3": "Es común. Puede probar con otra persona. Un directorio de la lista de arriba le permite comparar a varios profesionales antes de elegir.",
+  "q4": "¿Mi llamada es privada?",
+  "a4": "La mayoría de las líneas de ayuda dicen que son confidenciales, y muchas le permiten no dar su nombre. Cada listado enlaza al sitio web de la organización, donde puede leer sus reglas de privacidad antes de llamar.",
+  "q5": "Soy estudiante. ¿Por dónde empiezo?",
+  "a5": "El centro de consejería de su campus suele ser gratuito para estudiantes inscritos. Elija \"Consejería en el campus\" en Tipo de ayuda para encontrar las cinco universidades que tienen un capítulo de Shifa.",
+  "g2Title": "Palabras que puede escuchar",
+  "w1": "Terapeuta o consejero",
+  "d1": "Un profesional con licencia que ofrece terapia de conversación. Los terapeutas no recetan medicamentos.",
+  "w2": "Psiquiatra",
+  "d2": "Un médico que puede diagnosticar condiciones de salud mental y recetar medicamentos.",
+  "w3": "Defensor o defensora",
+  "d3": "Una persona capacitada de una organización de apoyo a sobrevivientes que puede explicarle sus opciones, ayudarle a hacer un plan de seguridad y acompañarle a sus citas. No es abogado ni terapeuta.",
+  "w4": "Tarifa según sus ingresos",
+  "d4": "Un costo que baja según lo que usted gana. Pregunte por esta opción si el costo le preocupa.",
+  "w5": "Telesalud",
+  "d5": "Sesiones por video o por teléfono en lugar de en persona.",
+  "w6": "Línea de apoyo (warmline)",
+  "d6": "Una línea telefónica para cuando quiere hablar con alguien pero no está en crisis. Muchas veces atienden personas que han pasado por dificultades parecidas.",
+  "w7": "CAPS",
+  "d7": "Servicios de Consejería y Psicología (Counseling and Psychological Services), el nombre que muchas universidades usan para su centro de consejería estudiantil.",
+  "report": "Cada listado muestra la fecha de su última verificación. Un listado no es una recomendación, y los datos pueden cambiar, así que por favor confírmelos con la organización. Si encuentra algo desactualizado, o conoce un recurso que debamos agregar, escriba por correo electrónico a",
+  "termsLink": "Lea los términos de este directorio.",
+  "searchHint": "Pruebe con \"terapeuta\", \"árabe\" o \"Dearborn\""
+ },
+ "tax": {
+  "Ann Arbor and Washtenaw County": "Ann Arbor y el condado de Washtenaw",
+  "Arab American": "Árabe estadounidense",
+  "Asian and Pacific Islander": "Asiático y de las islas del Pacífico",
+  "Black communities": "Comunidades negras",
+  "Campus counseling": "Consejería en el campus",
+  "Children and youth": "Niños y jóvenes",
+  "Community support": "Apoyo comunitario",
+  "Counseling and clinics": "Consejería y clínicas",
+  "Crisis line": "Línea de crisis",
+  "Deaf and hard of hearing": "Personas sordas o con dificultad para oír",
+  "Dearborn": "Dearborn",
+  "Detroit and Wayne County": "Detroit y el condado de Wayne",
+  "Domestic and dating violence": "Violencia doméstica y en el noviazgo",
+  "East Lansing and Ingham County": "East Lansing y el condado de Ingham",
+  "Eating disorders": "Trastornos de la alimentación",
+  "Education and tools": "Educación y herramientas",
+  "Everyone": "Todas las personas",
+  "General mental health": "Salud mental en general",
+  "Grief and loss": "Duelo y pérdida",
+  "Helpline": "Línea de ayuda",
+  "Human trafficking": "Trata de personas",
+  "Immigrants and refugees": "Inmigrantes y refugiados",
+  "LGBTQ+": "LGBTQ+",
+  "Latinx communities": "Comunidades latinas",
+  "Macomb County": "Condado de Macomb",
+  "Men": "Hombres",
+  "Michigan statewide": "Todo Míchigan",
+  "Muslim community": "Comunidad musulmana",
+  "Native communities": "Comunidades indígenas",
+  "Oakland County": "Condado de Oakland",
+  "Older adults": "Adultos mayores",
+  "Pregnancy and new parents": "Embarazo y nuevos padres",
+  "Sexual assault and abuse": "Agresión sexual y abuso",
+  "South Asian": "Sur de Asia",
+  "Southeast Michigan": "Sureste de Míchigan",
+  "Students and youth": "Estudiantes y jóvenes",
+  "Substance use and recovery": "Consumo de sustancias y recuperación",
+  "Suicide and crisis": "Suicidio y crisis",
+  "Therapist directory": "Directorio de terapeutas",
+  "Veterans": "Veteranos"
+ },
+ "res": {
+  "michigan-state-university-counseling-psychological-services-": {
+   "d": "Consejería y apoyo en crisis para estudiantes de MSU, en persona y en línea. Los servicios continuos no están disponibles para estudiantes que viven fuera de Míchigan.",
+   "hours": "Lunes a viernes, de 8 a. m. a 5 p. m.; consejeros de crisis las 24 horas, todos los días, marcando 1"
+  },
+  "university-of-michigan-counseling-and-psychological-services": {
+   "d": "Servicios de consejería y psicología a través de University Health Service para estudiantes de la Universidad de Míchigan en Ann Arbor, en el Michigan Union.",
+   "hours": "Lunes a jueves, de 8 a. m. a 6 p. m. (hasta las 5 p. m. en primavera y verano); viernes, de 8 a. m. a 5 p. m."
+  },
+  "university-of-michigan-dearborn-counseling-and-psychological": {
+   "d": "Consejería gratuita para estudiantes actuales de la Universidad de Míchigan en Dearborn, en persona o a distancia, con acceso telefónico fuera de horario a un clínico con licencia.",
+   "hours": "Oficina de lunes a jueves, de 8 a. m. a 5 p. m., y viernes, de 9 a. m. a 5 p. m.; fuera de horario, fines de semana y cierres, llame y marque 2 para hablar con un clínico con licencia",
+   "cost": "Gratis para estudiantes inscritos"
+  },
+  "wayne-state-university-counseling-and-psychological-services": {
+   "d": "Consejería y una evaluación gratuita de salud mental para estudiantes inscritos en Wayne State, con una línea telefónica de 24 horas fuera del horario de oficina.",
+   "hours": "Oficina de lunes a viernes, de 8:30 a. m. a 5 p. m.; en cualquier otro momento y durante los cierres, llame al 313-577-CAPS (2277)"
+  },
+  "university-of-detroit-mercy-wellness-center-personal-counsel": {
+   "d": "Consejería personal con clínicos con licencia de Míchigan para estudiantes de la University of Detroit Mercy, que se solicita por un formulario de contacto en línea o por correo electrónico.",
+   "cost": "Gratis para estudiantes inscritos"
+  },
+  "michigan-crisis-and-access-line-mical-and-988": {
+   "d": "Consejería de crisis gratuita y confidencial, por llamada o mensaje de texto, para cualquier persona en Míchigan con angustia emocional, una crisis de salud mental o de consumo de sustancias, o que esté preocupada por alguien.",
+   "text": "988",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis"
+  },
+  "michigan-211": {
+   "d": "Referencias gratuitas y confidenciales a ayuda local, como comida, vivienda, cuentas y apoyo en crisis, por teléfono, mensaje de texto o chat. Abierto a cualquier persona en Míchigan.",
+   "text": "Envíe su código postal por mensaje de texto al 898211",
+   "hours": "Las 24 horas del día",
+   "cost": "Gratis",
+   "languages": "Más de 180 idiomas (según el sitio)"
+  },
+  "detroit-wayne-integrated-health-network-dwihn-crisis-and-sup": {
+   "d": "Línea gratuita y confidencial de crisis y apoyo, las 24 horas, todos los días, para cualquier persona en el condado de Wayne con una emergencia de salud mental o de consumo de sustancias, con equipo móvil de crisis y atención sin cita.",
+   "text": "Envíe HOME por mensaje de texto al 741741",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis"
+  },
+  "washtenaw-county-community-mental-health-crisis-services": {
+   "d": "Línea telefónica de crisis a toda hora, equipo móvil de crisis y evaluaciones de riesgo de suicidio para residentes del condado de Washtenaw con necesidades urgentes.",
+   "hours": "Las 24 horas, todos los días"
+  },
+  "oakland-community-health-network-ochn-crisis-line": {
+   "d": "Línea de crisis para cualquier persona en el condado de Oakland en una crisis suicida, de salud mental o de consumo de sustancias, con una unidad móvil de crisis aparte para adultos.",
+   "hours": "Las 24 horas, los 7 días de la semana"
+  },
+  "common-ground-crisis-hub": {
+   "d": "Apoyo en crisis gratuito y confidencial, por teléfono las 24 horas, todos los días, y por texto y chat a través del 988, para quien busque ayuda en una crisis, a cargo de una agencia de crisis de Míchigan.",
+   "text": "988",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis"
+  },
+  "macomb-county-community-mental-health-mccmh-crisis-line": {
+   "d": "Línea de crisis atendida de día y de noche para residentes del condado de Macomb en una crisis de salud mental, a cargo de Macomb County Community Mental Health.",
+   "hours": "Las 24 horas del día, los 7 días de la semana"
+  },
+  "community-mental-health-authority-of-clinton-eaton-and-ingha": {
+   "d": "Atención de crisis las 24 horas, todos los días, con evaluación y detección de emergencias psiquiátricas para residentes de los condados de Clinton, Eaton e Ingham, incluida la zona de East Lansing.",
+   "hours": "Las 24 horas, todos los días"
+  },
+  "my-mental-wellness-helpline-islamic-center-of-detroit": {
+   "d": "Línea gratuita y anónima de escucha entre personas, fuera del horario habitual, con personal que tiene en cuenta la fe y la cultura, a través de Naseeha. No es una línea de terapia ni de crisis.",
+   "hours": "Lunes a viernes, de 6 p. m. a 10 p. m.",
+   "cost": "Gratis"
+  },
+  "my-mental-wellness-clinic-islamic-center-of-detroit": {
+   "d": "Terapia gratuita, basada en la fe y guiada por la cultura, con clínicos con licencia para niños, adolescentes, adultos y personas mayores, en persona en el Islamic Center of Detroit o en línea.",
+   "hours": "Lunes a viernes, de 9:30 a. m. a 5:30 p. m.",
+   "cost": "Gratis"
+  },
+  "michigan-muslim-mental-health-directory-the-family-youth-ins": {
+   "d": "Un directorio comunitario creado por The Family & Youth Institute para conectar a musulmanes de Míchigan con terapeutas que respetan su fe en todo el estado."
+  },
+  "icna-relief-michigan-muslim-family-services-counseling": {
+   "d": "Servicios sociales gratuitos y de bajo costo, como apoyo a refugiados, ayuda con alimentos y servicios limitados de salud mental, pensados para las necesidades de las comunidades musulmanas de Míchigan."
+  },
+  "cognitive-care-center": {
+   "d": "Evaluaciones psiquiátricas, terapia y manejo de medicamentos para niños y adultos, con profesionales que tienen experiencia con personas de origen musulmán y de minorías.",
+   "hours": "Lunes a sábado, de 9 a. m. a 8 p. m.; domingo con cita",
+   "cost": "Aceptan seguro",
+   "languages": "La mayoría del personal es bilingüe (no se indican los idiomas)"
+  },
+  "arab-community-center-for-economic-and-social-services-acces": {
+   "d": "Consejería, servicios psiquiátricos, manejo de casos y apoyo entre personas para adultos, niños y familias en el sureste de Míchigan, incluidas las comunidades árabe estadounidense e inmigrante.",
+   "languages": "Personal bilingüe (no se indican los idiomas)"
+  },
+  "chaldean-community-foundation-project-light": {
+   "d": "Evaluación de salud mental, consulta y terapia con terapeutas trilingües con licencia para residentes de Míchigan de 13 años o más, sin importar si tienen seguro.",
+   "languages": "Terapeutas trilingües (no se indican los idiomas)"
+  },
+  "988-suicide-crisis-lifeline": {
+   "d": "Llame, envíe un mensaje de texto o chatee con un consejero de crisis capacitado sobre pensamientos suicidas, angustia emocional o cualquier crisis de salud mental.",
+   "text": "Envíe un mensaje de texto al 988",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis y confidencial",
+   "languages": "Inglés y español (el sitio indica que el texto y el chat están disponibles en español)"
+  },
+  "crisis-text-line": {
+   "d": "Escriba con un consejero voluntario de crisis para recibir apoyo durante una crisis o en cualquier momento difícil.",
+   "text": "Envíe HOME por mensaje de texto al 741741 (en español, envíe HOLA)",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis y confidencial",
+   "languages": "Inglés y español"
+  },
+  "samhsa-national-helpline": {
+   "d": "Servicio de información y referencias a tratamiento para condiciones de salud mental y consumo de sustancias, para personas y familias.",
+   "text": "Envíe su código postal por mensaje de texto al 435748 (HELP4U)",
+   "hours": "Las 24 horas, todos los días del año",
+   "cost": "Gratis",
+   "languages": "Inglés y español por teléfono; el servicio de texto es solo en inglés"
+  },
+  "naseeha-mental-health-helpline": {
+   "d": "Línea gratuita de apoyo entre personas, a cargo de Naseeha, abierta a toda hora para quienes quieren hablar con alguien.",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis y confidencial"
+  },
+  "the-trevor-project": {
+   "d": "Consejeros de crisis disponibles por teléfono, mensaje de texto o chat en línea para jóvenes LGBTQ+.",
+   "text": "Envíe START por mensaje de texto al 678-678",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis y confidencial"
+  },
+  "veterans-crisis-line": {
+   "d": "Apoyo confidencial por teléfono, mensaje de texto o chat para veteranos, miembros del servicio militar y sus familias en crisis.",
+   "text": "Envíe un mensaje de texto al 838255",
+   "hours": "Las 24 horas, todos los días del año",
+   "cost": "Gratis y confidencial"
+  },
+  "stronghearts-native-helpline": {
+   "d": "Línea de ayuda confidencial para indígenas de Estados Unidos y nativos de Alaska afectados por violencia doméstica, en el noviazgo o sexual.",
+   "text": "Envíe START por mensaje de texto al 1-844-762-8483",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis"
+  },
+  "disaster-distress-helpline": {
+   "d": "Consejería de crisis por teléfono o mensaje de texto para personas afectadas por un desastre, ya sea natural o causado por humanos.",
+   "text": "Envíe un mensaje de texto al 1-800-985-5990",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis (llamada sin costo; pueden aplicar las tarifas normales de mensajes de texto)",
+   "languages": "Más de 100 idiomas con interpretación; español: marque 2"
+  },
+  "trans-lifeline": {
+   "d": "Línea de apoyo entre personas para personas trans y que se están cuestionando, atendida por teléfono los días de semana.",
+   "hours": "Lunes a viernes, de 1 p. m. a 9 p. m., hora del Este (de 10 a. m. a 6 p. m., hora del Pacífico)",
+   "languages": "Inglés y español"
+  },
+  "muslim-therapist-directory": {
+   "d": "Una plataforma en línea que conecta a las personas con profesionales de salud mental musulmanes con licencia en varias regiones."
+  },
+  "institute-for-muslim-mental-health": {
+   "d": "Investigación, capacitación y recursos sobre la salud mental de los musulmanes en Estados Unidos, con un enlace al Muslim Therapist Directory."
+  },
+  "maristan": {
+   "d": "Una colección de herramientas, artículos y materiales educativos de salud mental para apoyar a las comunidades musulmanas con atención que incluye lo espiritual y orientación que respeta la cultura."
+  },
+  "khalil-center": {
+   "d": "Servicios clínicos que unen la espiritualidad islámica y la psicología. Ofrece terapia individual, talleres y capacitación para profesionales.",
+   "cost": "Aceptan seguro; ayuda económica según sus ingresos"
+  },
+  "ruh-care": {
+   "d": "Terapia en línea por teléfono o video con terapeutas musulmanes con licencia, para personas, parejas, niños y familias.",
+   "cost": "De $120 a $200 por sesión; ayuda según los ingresos para quienes no tienen seguro",
+   "languages": "Lengua de señas estadounidense (ASL), árabe, bengalí, criollo, inglés, farsi, francés, alemán, harari, hindi, malayalam, pastún, punyabí, rohinyá, sindi, somalí, tamil, urdu, wolof"
+  },
+  "the-family-youth-institute": {
+   "d": "Organización nacional sin fines de lucro con un centro de recursos sobre la salud mental de los musulmanes en Estados Unidos: estigma, suicidio, duelo, terapia, crianza y juventud."
+  },
+  "muslim-mental-health-and-islamic-psychology-lab-stanford": {
+   "d": "Laboratorio de investigación de Stanford Medicine que publica estudios, guías para responder ante el suicidio y capacitaciones sobre psicología islámica y salud mental de los musulmanes."
+  },
+  "muslim-mental-health-consortium-michigan-state-university": {
+   "d": "Organiza la conferencia anual Muslim Mental Health Conference y ofrece recursos para profesionales, líderes religiosos y miembros de la comunidad."
+  },
+  "black-mental-health-alliance": {
+   "d": "Educación, capacitación y recursos para apoyar el bienestar mental en las comunidades negras, con un servicio de referencia a terapeutas."
+  },
+  "beam": {
+   "d": "Sanación, capacitación y apoyo entre personas para personas y familias negras, con un enfoque comunitario que tiene en cuenta el trauma."
+  },
+  "therapy-for-black-girls": {
+   "d": "Directorio de terapeutas que respetan la cultura en providers.therapyforblackgirls.com, además de un pódcast y un blog."
+  },
+  "latinx-therapy": {
+   "d": "Directorios de terapia bilingüe, episodios de pódcast y recursos para acabar con el estigma de la salud mental en las comunidades latinas.",
+   "cost": "Tarifa según los ingresos y pago privado (varía según el profesional)",
+   "languages": "Inglés y español; algunos profesionales también hablan espanglish"
+  },
+  "asian-mental-health-collective": {
+   "d": "Un directorio de terapeutas y recursos de salud mental para que la atención sea más accesible para personas asiáticas y de las islas del Pacífico.",
+   "cost": "El Therapy Fund es gratuito (16 sesiones en seis meses, con solicitud); no se indica el costo del directorio"
+  },
+  "south-asian-mental-health-initiative-and-network-samhin": {
+   "d": "Línea de ayuda que no es de emergencia, grupos de apoyo y un directorio de profesionales para las comunidades del sur de Asia en Estados Unidos.",
+   "hours": "Todos los días, de 10:00 a. m. a 7:00 p. m., hora del Este"
+  },
+  "the-steve-fund": {
+   "d": "Apoya la salud mental y el bienestar emocional de jóvenes de color mediante programas en el campus, investigación y apoyo en crisis.",
+   "text": "Envíe STEVE por mensaje de texto al 741741",
+   "hours": "Las 24 horas, todos los días"
+  },
+  "we-r-native": {
+   "d": "Recurso de salud y bienestar para jóvenes indígenas, con artículos, un servicio de preguntas llamado Ask Your Relative y programas de mensajes de texto."
+  },
+  "national-queer-and-trans-therapists-of-color-network": {
+   "d": "Directorio nacional de terapeutas queer y trans de color, además de un programa de membresía para profesionales y recursos comunitarios."
+  },
+  "open-path-collective": {
+   "d": "Directorio de terapeutas que ofrecen sesiones a tarifa reducida a miembros que pagan una cuota de membresía única.",
+   "cost": "Sesiones de bajo costo fijadas por cada terapeuta, más una cuota de membresía única"
+  },
+  "psychology-today-therapist-finder": {
+   "d": "Directorio con búsqueda de terapeutas por lugar, tema y especialidad."
+  },
+  "rainn-national-sexual-assault-hotline": {
+   "d": "Hable por teléfono, mensaje de texto o chat en línea con una persona capacitada que apoya a sobrevivientes de violencia sexual y a sus seres queridos.",
+   "text": "Envíe HOPE por mensaje de texto al 64673",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis y confidencial",
+   "languages": "Inglés y español"
+  },
+  "1in6": {
+   "d": "Grupos de apoyo en línea por mensajes de texto, gratuitos y guiados por un consejero, para hombres de 18 años o más que sufrieron abuso o agresión sexual. Es apoyo entre personas, no terapia ni servicio de crisis.",
+   "hours": "Sesiones semanales en línea, de cerca de 1 hora cada una, varias noches y un mediodía por semana (los horarios del Este y del Pacífico están en el sitio)",
+   "cost": "Gratis"
+  },
+  "dod-safe-helpline": {
+   "d": "Apoyo por teléfono y chat en línea para miembros de la comunidad del Departamento de Defensa y sus seres queridos afectados por una agresión sexual."
+  },
+  "national-domestic-violence-hotline": {
+   "d": "Llame, envíe un mensaje de texto o chatee con un defensor sobre violencia doméstica, planes de seguridad y recursos locales.",
+   "text": "Envíe START por mensaje de texto al 88788",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis y confidencial",
+   "languages": "Inglés y español (sitio en español en espanol.thehotline.org)"
+  },
+  "national-domestic-violence-hotline-deaf-hotline": {
+   "d": "Una línea de videoteléfono para personas sordas o con dificultad para oír que quieren hablar con un defensor sobre violencia doméstica.",
+   "languages": "Lengua de señas estadounidense"
+  },
+  "love-is-respect": {
+   "d": "Apoyo por teléfono, mensaje de texto y chat en vivo para adolescentes y jóvenes adultos sobre el abuso en el noviazgo y las relaciones poco saludables, además de información para amigos y familiares.",
+   "text": "Envíe LOVEIS por mensaje de texto al 22522",
+   "languages": "Sitio en inglés y español"
+  },
+  "peaceful-families-project": {
+   "d": "Una organización sin fines de lucro enfocada en la comunidad musulmana que ofrece guías sobre violencia doméstica y un directorio que conecta a sobrevivientes con organizaciones y refugios para casos de violencia doméstica en Estados Unidos y Canadá."
+  },
+  "heart-health-education-advocacy-research-and-training": {
+   "d": "Una organización sin fines de lucro con sede en Chicago que ofrece educación sobre salud sexual y violencia desde la fe, y una sección de apoyo para las comunidades musulmanas."
+  },
+  "tahirih-justice-center": {
+   "d": "Servicios legales gratuitos y manejo de casos para mujeres inmigrantes, niñas y sobrevivientes de violencia de género, con oficinas en VA, GA, MD, TX y CA.",
+   "cost": "Servicios legales gratuitos"
+  },
+  "esperanza-united": {
+   "d": "Un centro nacional de recursos para las comunidades latinas con un directorio de organizaciones nacionales y locales y guías sobre violencia doméstica y sexual.",
+   "languages": "Inglés y español"
+  },
+  "womenslaw-org-email-hotline": {
+   "d": "Información legal gratuita de Estados Unidos sobre violencia doméstica, agresión sexual y acoso, con una línea de ayuda por correo electrónico atendida por abogados. Ofrece información legal, no asesoría legal.",
+   "hours": "Responden en 1 a 5 días hábiles"
+  },
+  "national-human-trafficking-hotline": {
+   "d": "Ayuda confidencial por teléfono, mensaje de texto y chat para víctimas y sobrevivientes de trata de personas y para quienes sospechan que hay trata.",
+   "text": "Envíe un mensaje de texto al 233733",
+   "hours": "Las 24 horas, todos los días",
+   "languages": "Sitio en inglés y español"
+  },
+  "childhelp-national-child-abuse-hotline": {
+   "d": "Hable por teléfono, mensaje de texto o chat con un consejero si es un niño, adolescente o adulto preocupado por el abuso infantil. No es una línea para hacer denuncias.",
+   "text": "Envíe GO por mensaje de texto al 800.422.4453",
+   "languages": "Inglés; se habla español"
+  },
+  "national-runaway-safeline": {
+   "d": "Apoyo en crisis por teléfono, mensaje de texto y chat para jóvenes que piensan en irse de casa o que no tienen hogar, y para sus familias.",
+   "text": "Envíe un mensaje de texto al 1-800-786-2929",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis"
+  },
+  "boys-town-national-hotline": {
+   "d": "Consejeros que atienden llamadas y mensajes de texto de niños, adolescentes y padres sobre crisis, conflictos familiares, abuso y otras preocupaciones.",
+   "text": "Envíe VOICE por mensaje de texto al 20121",
+   "hours": "Las 24 horas del día, los 365 días del año",
+   "languages": "Inglés; consejeros que hablan español; traducción a más de 100 idiomas"
+  },
+  "youthline": {
+   "d": "Línea gratuita de apoyo, ayuda y crisis entre jóvenes, para personas de hasta 24 años, por teléfono, mensaje de texto, chat o correo electrónico.",
+   "text": "Envíe un mensaje de texto al 839863",
+   "hours": "Jóvenes voluntarios todos los días, de 4 a 10 p. m., hora del Pacífico; adultos atienden el teléfono en otros horarios",
+   "cost": "Gratis",
+   "languages": "Inglés; intérprete en vivo disponible en las llamadas"
+  },
+  "eldercare-locator": {
+   "d": "Un servicio federal que conecta a adultos mayores y cuidadores con servicios locales para personas mayores, incluida ayuda con el maltrato a personas mayores y el cuidado."
+  },
+  "partnership-to-end-addiction-helpline": {
+   "d": "Padres y familias pueden llamar, enviar un mensaje de texto o un correo electrónico a un especialista para recibir ayuda por un hijo o ser querido con problemas de consumo de sustancias.",
+   "text": "Envíe CONNECT por mensaje de texto al 55753",
+   "cost": "Gratis, confidencial y seguro"
+  },
+  "alcoholics-anonymous-find-a-meeting": {
+   "d": "Encuentre reuniones de A.A. en persona con la aplicación Meeting Guide o los recursos locales de A.A., y reuniones en línea con el Online Intergroup."
+  },
+  "narcotics-anonymous-meeting-search": {
+   "d": "Encuentre reuniones de NA en persona con las comunidades locales de NA y reuniones en línea con el Virtual Meeting Finder, o use la aplicación gratuita de búsqueda de reuniones."
+  },
+  "millati-islami": {
+   "d": "Una hermandad de recuperación de doce pasos basada en principios islámicos, con reuniones en persona en las ciudades principales, reuniones por Zoom casi todos los días y una reunión por teléfono."
+  },
+  "anad-eating-disorders-helpline": {
+   "d": "Una línea de ayuda gratuita que ofrece apoyo emocional y referencias para personas afectadas por trastornos de la alimentación. Los mensajes que se dejan fuera del horario se responden.",
+   "hours": "Lunes a viernes, de 9 a. m. a 9 p. m., hora del Centro",
+   "cost": "Gratis"
+  },
+  "national-alliance-for-eating-disorders-helpline": {
+   "d": "Una línea de ayuda gratuita para personas con trastornos de la alimentación y sus familias, con referencias a tratamiento y apoyo.",
+   "hours": "De 9:00 a. m. a 7:00 p. m., hora del Este, de lunes a viernes",
+   "cost": "Gratis"
+  },
+  "national-maternal-mental-health-hotline": {
+   "d": "Apoyo gratuito y confidencial por llamada o mensaje de texto para personas embarazadas o en posparto y sus familias, atendido por consejeros capacitados y especialistas de apoyo entre personas.",
+   "text": "Envíe un mensaje de texto al 1-833-852-6262",
+   "hours": "Las 24 horas, todos los días",
+   "cost": "Gratis y confidencial",
+   "languages": "Inglés y español; intérpretes para más de 60 idiomas"
+  },
+  "postpartum-support-international-helpline": {
+   "d": "Voluntarios devuelven llamadas y mensajes de texto con apoyo, información y referencias sobre problemas de ánimo y ansiedad durante el embarazo y el posparto. No es una línea de crisis.",
+   "text": "Envíe HELP por mensaje de texto al 800-944-4773 (inglés); envíe un mensaje de texto al 971-203-7773 (español)",
+   "hours": "Deje un mensaje a cualquier hora; los voluntarios devuelven llamadas y mensajes todos los días, de 8 a. m. a 11 p. m., hora del Este",
+   "cost": "Gratis (llamada sin costo)",
+   "languages": "Inglés y español"
+  },
+  "the-dougy-center": {
+   "d": "Guías y educación gratuitas para niños, adolescentes y familias en duelo, además de un directorio mundial de programas de apoyo en el duelo entre personas.",
+   "cost": "Recursos descritos como gratuitos"
+  },
+  "the-compassionate-friends": {
+   "d": "Apoyo en el duelo para familias tras la muerte de un hijo a cualquier edad, con más de 500 capítulos locales y grupos en línea."
+  },
+  "american-foundation-for-suicide-prevention-i-ve-lost-someone": {
+   "d": "Apoyo para personas en duelo por un suicidio, con Healing Conversations con voluntarios sobrevivientes capacitados, un directorio de grupos de apoyo, guías y un directorio de clínicos.",
+   "languages": "Inglés y español (folleto Surviving a Suicide Loss)"
+  },
+  "alliance-of-hope-for-suicide-loss-survivors": {
+   "d": "Un foro en línea y recursos para personas que perdieron a alguien por suicidio, con una comunidad de apoyo de otros sobrevivientes."
+  },
+  "cdc-caring-for-your-mental-health": {
+   "d": "Una página de los CDC con consejos y enlaces para apoyo en crisis, cómo encontrar profesionales, apoyo entre personas, necesidades básicas y líneas de ayuda para violencia, abuso y trata de personas."
+  },
+  "nimh-help-for-mental-illnesses": {
+   "d": "Orientación para conseguir ayuda inmediata, encontrar un profesional o tratamiento, saber si un profesional es el indicado para usted y aprender sobre los trastornos mentales."
+  },
+  "nami-helpline": {
+   "d": "Personal y voluntarios capacitados ofrecen información, referencias y apoyo a personas con condiciones de salud mental y a sus familias. No es una línea de crisis.",
+   "text": "Envíe NAMI por mensaje de texto al 62640",
+   "hours": "Lunes a viernes, de 10 a. m. a 10 p. m., hora del Este"
+  },
+  "mental-health-america-screening-tools": {
+   "d": "Pruebas de detección en línea, gratuitas y anónimas, para depresión, ansiedad, TEPT y otras condiciones, con recursos para los siguientes pasos. Los resultados no son un diagnóstico.",
+   "cost": "Gratis y confidencial"
+  },
+  "findtreatment-gov": {
+   "d": "El buscador de SAMHSA de centros de tratamiento de salud mental y consumo de sustancias, que se puede filtrar por lugar, servicios y formas de pago aceptadas.",
+   "cost": "Gratis y confidencial",
+   "languages": "Inglés y español"
+  },
+  "hrsa-find-a-health-center": {
+   "d": "Una herramienta federal para encontrar centros de salud que ofrecen atención primaria y, muchas veces, de salud conductual, con costos ajustados a sus ingresos, tenga o no seguro.",
+   "cost": "Tarifa según su capacidad de pago"
+  },
+  "warmline-org-directory": {
+   "d": "Un directorio por estado de líneas de apoyo dirigidas por personas con experiencia propia, donde puede hablar con alguien antes de que una situación se vuelva una crisis. Algunas líneas aceptan llamadas de todo el país."
+  },
+  "inclusive-therapists": {
+   "d": "Un directorio nacional que da prioridad a terapeutas BIPOC, LGBTQ+ y neurodivergentes, con filtros por necesidades culturales, espirituales y de idioma.",
+   "cost": "Varía según el profesional"
+  }
+ }
+}
